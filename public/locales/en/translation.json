@@ -1,0 +1,22 @@
+{
+  "header": {
+    "about": "About",
+    "catalog": "Catalog",
+    "reviews": "Reviews",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Development and automation of AI and ML technologies",
+    "desc": "Dive into a new dimension of technology with the best ML solutions.",
+    "button": "Buy"
+  },
+  "promo": {
+    "title": "FEEL IT",
+    "desc": "Let new emotions overwhelm you"
+  },
+  "testimonials": "Testimonials",
+  "partners": "Our partners",
+  "footer": "© 2025 Unit Art tech. All rights reserved.",
+  "mainscreentitle": "Revolution in AI products",
+  "mainscreensectitle": "Explore the universe of Machine learning"
+}

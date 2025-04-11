@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mainImage{
+    background-image:url('../public/images/main.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 30px;
+}
+
+.feelBlock{
+    background-image: url('../public/images/feelblock.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+    
