@@ -10,10 +10,44 @@
     padding: 30px;
 }
 
+.mainBackground{
+    background-image: url('../public/images/mainBg.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
 .feelBlock{
     background-image: url('../public/images/feelblock.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
-    
+.logo{
+    height: 100px;
+    width: 100px;
+}
+.margin-top30{
+    margin-top:30px;
+}
+
+@media (max-width: 500px) {
+
+    .hide-on-mobile {
+      display: none;
+    }
+  }
+
+  @media (max-width: 500px) {
+
+    .bottomPadding{
+        padding-bottom: 30px;
+    }
+    .logoimagecentered {
+        max-width: 30%;
+    }
+
+  }
+ 
+
+  
